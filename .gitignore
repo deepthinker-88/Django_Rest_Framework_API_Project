@@ -1,4 +1,6 @@
 .venv/
 db.sqlite3 15-32-35-808
 __pycache__
-
+venv/lib/python3.11/site-packages/psycopg2-2.9.9.dist-info/
+venv/lib/python3.11/site-packages/psycopg2/
+datadump.json
