@@ -4,3 +4,4 @@ __pycache__
 venv/lib/python3.11/site-packages/psycopg2-2.9.9.dist-info/
 venv/lib/python3.11/site-packages/psycopg2/
 datadump.json
+.env
